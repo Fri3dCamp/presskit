@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>
+	<title>Fri3d Camp</title>
+	<founding-date>2014</founding-date>
+	<website>http://www.fri3d.be/</website>
+	<based-in>België</based-in>
+	<phone>+32 495 38 94 39</phone>
+	<press-contact>info@fri3d.be</press-contact>
+
+	<socials>
+		<social>
+			<name>Twitter</name>
+			<link>twitter.com/fri3dcamp</link>
+		</social>
+		<social>
+			<name>Facebook</name>
+			<link>facebook.com/Fri3dCamp</link>
+		</social>
+		<social>
+			<name>YouTube</name>
+			<link>https://www.youtube.com/channel/UC4po-Ek-8MplssA_h73SSWg</link>
+		</social>
+	</socials>
+
+
+
+	<description>
+		Fri3d Camp is een gezinsvriendelijk zomerkamp voor hackers, makers en DIY'ers.
+	</description>
+
+	<histories>
+		<history>
+
+			<header>Technologie en natuur komen samen in de Hoge Rielen</header>
+			<text>
+Dit weekend komen driehonderd fans van technologie samen in de Hoge Rielen voor Fri3d Camp 2016. 3D printers en laptops zijn niet gebruikelijk als je gaat kamperen, bij Fri3d Camp is dat helemaal anders. Op dit gezinsvriendelijk hacker camp is overal elektriciteit, draadloos Internet en wordt een hangar omgebouwd tot een fablab waar workshops elektronica worden gegeven.
+&lt;br&gt;&lt;br&gt;
+Fri3d Camp gaat dit jaar door tussen 13 en 15 augustus. Twee jaar geleden vond de eerste editie plaats, ook in de Hoge Rielen te Kasterlee. Anthony Liekens, bezieler van het initiatief, vertelt: "Dit soort hacker-kampen zijn er in het buitenland ook, maar wij wilden een gezinsvriendelijke variant organiseren. Hierdoor hebben we een heel aantal workshops voor kinderen. We leren iedereen solderen en programmeren, maar spelen ook een technologisch geïnspireerd bosspel, bouwen een katapult en halen DNA uit kiwi's. Het is de bedoeling dat rasechte geeks en nerds zich hier met hun hele gezin een weekend kunnen uitleven in de natuur."
+&lt;br&gt;&lt;br&gt;
+Hackers hebben een negatief imago, maar dat is onterecht. Anthony Liekens: "Een 'hacker' is iedereen die creatief omgaat met technologie, die apparaten niet zomaar weggooit als ze stuk zijn, die benieuwd is naar hoe de dingen werken. We willen dit weekend met honderden samen leren, delen en creëren."
+&lt;br&gt;&lt;br&gt;
+Typisch voor een hacker-kamp is ook de feeërieke verlichting. Iedereen wordt aangemoedigd om z'n tent te tooien met gekleurde en knipperende lichtjes, en ook het terrein is kleurrijk verlicht.
+&lt;br&gt;&lt;br&gt;
+De tickets voor Fri3d Camp 2016 waren op minder dan drie dagen uitverkocht. Twee jaar geleden waren er iets meer dan honderd deelnemers, voor deze editie werd dat aantal verdriedubbeld. De formule lijkt dus aan te slaan. Liekens: "Technologie en wetenschap zijn hot, ook als entertainment voor de hele familie. STEM-richtingen op school, Coderdojo, TV-programma's als De Schuur van Scheire ... We bereiken met Fri3d Camp een heel ruim publiek, ook mensen die traditioneel niet naar hacker-kampen komen. Als we hen op een positieve manier kunnen laten kennismaken met de hackercultuur, is onze missie geslaagd."
+		</text>
+		</history>
+	</histories>
+
+	<trailers>
+		<trailer>
+			<name>Dit was Fri3d Camp 2014</name>
+			<youtube>LG4_soNhjLA</youtube>
+		</trailer>
+	</trailers>
+
+	<quotes>
+	</quotes>
+
+<awards>
+</awards>
+
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>ask</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->
+
+	<credits>
+		<credit>
+			<person>Anthony Liekens</person>
+			<website>http://anthony.liekens.net</website>
+			<role>Master of Ceremony</role>
+		</credit>
+		<credit>
+			<person>Christophe Van Ginneken</person>
+			<website>http://christophe.vg/</website>
+			<role>Content, Badge</role>
+		</credit>
+		<credit>
+			<person>Dries De Roeck</person>
+			<role>Design, Content</role>
+			<website>http://www.twitter.com/driesderoeck</website>
+		</credit>
+		<credit>
+			<person>Els De Ketelaere</person>
+			<role>Finance</role>
+			<website>http://www.bewustbouwen.be/</website>
+		</credit>
+		<credit>
+			<person>Ilias Barthelemy</person>
+			<role>Logistics</role>
+			<website>http://lab.walkingrobot.be/</website>
+		</credit>
+		<credit>
+			<person>Ivo van den Maagdenberg</person>
+			<role>Food and Drinks</role>
+			<website>http://www.rijwind.be/</website>
+		</credit>
+		<credit>
+			<person>Jef Van den broeck</person>
+			<website>http://www.codewerken.be/</website>
+			<role>Tickets</role>
+		</credit>
+		<credit>
+			<person>Tim Lathouwers</person>
+			<role>Lights</role>
+			<website>http://plus.google.com/+TimLathouwers</website>
+		</credit>
+		<credit>
+			<person>Toon Van de Putte</person>
+			<website>http://www.automaton.be</website>
+			<role>Design</role>
+		</credit>
+	</credits>
+
+	<contacts>
+		<contact>
+			<name>Fri3d Camp</name>
+			<link>http://www.fri3d.be</link>
+		</contact>
+		<contact>
+			<name>Open Garage</name>
+			<link>http://www.opengarage.org</link>
+		</contact>
+	</contacts>
+</game>
